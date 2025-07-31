@@ -28,6 +28,9 @@ Using Excel and SQL, I conducted a comprehensive analysis of company financials 
 ## 📸 Screenshots
 
 ### 💼 Summary Statistics Table
+
+<img width="554" height="518" alt="image" src="https://github.com/user-attachments/assets/7228302c-7388-485d-a5e8-e30f8186baae" />
+
 <img width="1020" height="421" alt="image" src="https://github.com/user-attachments/assets/45c207f2-88d1-458d-8ce2-fdafe1148396" />
 
 
