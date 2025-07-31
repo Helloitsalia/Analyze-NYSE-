@@ -28,13 +28,12 @@ Using Excel and SQL, I conducted a comprehensive analysis of company financials 
 ## 📸 Screenshots
 
 ### 💼 Summary Statistics Table
-![Summary Stats](images/summary_statistics.png)
+<img width="1020" height="421" alt="image" src="https://github.com/user-attachments/assets/45c207f2-88d1-458d-8ce2-fdafe1148396" />
+
+
 
 ### 📈 Dynamic P&L Dashboard
-![P&L Dashboard](images/profit_loss_dashboard.png)
-
-### 🔮 Forecast Model Dashboard
-![Forecast Model](images/forecast_dashboard.png)
+<img width="1248" height="616" alt="image" src="https://github.com/user-attachments/assets/63f082ad-8ae5-45e7-9f5e-da78ccc8464b" />
 
 ## ⚙️ Tools Used
 
